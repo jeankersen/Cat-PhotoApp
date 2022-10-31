@@ -1,2 +1,2 @@
 # Cat-PhotoApp
-1rst project Web Design freecodecamp curirculum
+1rst project On Web Design freecodecamp curirculum
